@@ -40,7 +40,7 @@ export default function Navigation() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2">
             <img 
-              src="/logos/stemlens-network-logo.png" 
+              src="/logos/Stemlens Network logo.png" 
               alt="STEMlens Network" 
               className="h-16 w-auto"
             />
