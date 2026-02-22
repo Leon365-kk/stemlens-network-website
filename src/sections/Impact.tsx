@@ -3,6 +3,11 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import africaMap from '../../assets/africa_map.jpg';
 import { School, Users, Lightbulb, Globe, X } from 'lucide-react';
+import sdg1Image from '../sdgs/sdg1.png';
+import sdg2Image from '../sdgs/sdg2.png';
+import sdg3Image from '../sdgs/sdg3.png';
+import sdg4Image from '../sdgs/sdg4.png';
+import sdg5Image from '../sdgs/sdg5.png';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -17,7 +22,7 @@ const sdgGoals = [
   {
     id: 1,
     name: 'No Poverty',
-    image: '/sdgs/sdg1.png',
+    image: sdg1Image,
     description: 'End poverty in all its forms everywhere through education and economic empowerment.',
     initiatives: [
       'Scholarship programs for underprivileged youth',
@@ -27,7 +32,7 @@ const sdgGoals = [
   {
     id: 2,
     name: 'Zero Hunger',
-    image: '/sdgs/sdg2.png',
+    image: sdg2Image,
     description: 'End hunger, achieve food security and improved nutrition through agricultural innovation.',
     initiatives: [
       'Smart agriculture technology training',
@@ -37,7 +42,7 @@ const sdgGoals = [
   {
     id: 3,
     name: 'Good Health & Well-being',
-    image: '/sdgs/sdg3.png',
+    image: sdg3Image,
     description: 'Ensure healthy lives and promote well-being for all at all ages.',
     initiatives: [
       'Health technology innovation labs',
@@ -47,7 +52,7 @@ const sdgGoals = [
   {
     id: 4,
     name: 'Quality Education',
-    image: '/sdgs/sdg4.png',
+    image: sdg4Image,
     description: 'Ensure inclusive and equitable quality education and promote lifelong learning.',
     initiatives: [
       'STEM curriculum development',
@@ -57,7 +62,7 @@ const sdgGoals = [
   {
     id: 5,
     name: 'Gender Equality',
-    image: '/sdgs/sdg5.png',
+    image: sdg5Image,
     description: 'Achieve gender equality and empower all women and girls in STEM fields.',
     initiatives: [
       'Girls in STEM mentorship programs',

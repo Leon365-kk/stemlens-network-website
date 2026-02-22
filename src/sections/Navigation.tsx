@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
+import stemlensLogo from '../logos/stemlens-network-logo.png';
 
 export default function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -40,7 +41,7 @@ export default function Navigation() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2">
             <img 
-              src="/logos/Stemlens Network logo.png" 
+              src={stemlensLogo}
               alt="STEMlens Network" 
               className="h-16 w-auto"
             />

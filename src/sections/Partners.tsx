@@ -2,16 +2,22 @@ import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import partnersImage from '../../assets/asset_3.jpg';
+import unescoLogo from '../logos/unesco.png';
+import africanUnionLogo from '../logos/african_union.png';
+import unicefLogo from '../logos/unicef.png';
+import wiserLogo from '../logos/wiser.png';
+import gpeLogo from '../logos/gpe.png';
+import unepLogo from '../logos/unep.png';
 
 gsap.registerPlugin(ScrollTrigger);
 
 const partners = [
-  { name: 'UNESCO', logo: '/logos/unesco.png' },
-  { name: 'African Union', logo: '/logos/african_union.png' },
-  { name: 'UNICEF', logo: '/logos/unicef.png' },
-  { name: 'Wiser', logo: '/logos/wiser.png' },
-  { name: 'Global Partnership', logo: '/logos/gpe.png' },
-  { name: 'UNEP', logo: '/logos/unep.png' },
+  { name: 'UNESCO', logo: unescoLogo },
+  { name: 'African Union', logo: africanUnionLogo },
+  { name: 'UNICEF', logo: unicefLogo },
+  { name: 'Wiser', logo: wiserLogo },
+  { name: 'Global Partnership', logo: gpeLogo },
+  { name: 'UNEP', logo: unepLogo },
 ];
 
 export default function Partners() {
