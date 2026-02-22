@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import solutionImage from '../../assets/asset_2.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -79,7 +80,7 @@ export default function Solutions() {
         >
           <div className="red-overlay w-full h-full">
             <img
-              src="/assets/asset_2.jpg"
+              src={solutionImage}
               alt="Students collaborating on robotics project"
               className="w-full h-full object-cover min-h-[260px] lg:min-h-0"
             />

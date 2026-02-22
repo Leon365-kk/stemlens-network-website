@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import africaMap from '../../assets/africa_map.jpg';
 import { School, Users, Lightbulb, Globe, X } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -170,7 +171,7 @@ export default function Impact() {
         {/* Africa map silhouette */}
         <div className="absolute right-6 lg:right-10 top-1/2 -translate-y-1/2 opacity-[0.12] pointer-events-none">
           <img
-            src="/assets/africa_map.jpg"
+            src={africaMap}
             alt=""
             className="w-24 h-24 lg:w-36 lg:h-36 object-contain"
           />

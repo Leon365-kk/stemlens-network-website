@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import closingImage from '../../assets/asset_4.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -52,7 +53,7 @@ export default function ClosingCTA() {
       >
         <div className="red-overlay w-full h-full">
           <img
-            src="/assets/asset_4.jpg"
+            src={closingImage}
             alt="Youth workshop"
             className="w-full h-full object-cover"
           />

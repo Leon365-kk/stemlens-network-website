@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import partnersImage from '../../assets/asset_3.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -85,7 +86,7 @@ export default function Partners() {
       >
         <div className="red-overlay w-full h-full">
           <img
-            src="/assets/asset_3.jpg"
+            src={partnersImage}
             alt="Partners audience"
             className="w-full h-full object-cover"
           />

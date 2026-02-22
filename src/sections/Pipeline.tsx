@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import worldMap from '../../assets/world_map.jpg';
 import { BookOpen, Trophy, Users, Globe } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -86,7 +87,7 @@ export default function Pipeline() {
       {/* World map watermark */}
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-[0.06]">
         <img
-          src="/assets/world_map.jpg"
+          src={worldMap}
           alt=""
           className="w-[70%] max-w-3xl object-contain"
         />
