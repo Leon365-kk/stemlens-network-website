@@ -21,9 +21,8 @@ const sdgGoals = [
     description: 'End poverty in all its forms everywhere through education and economic empowerment.',
     initiatives: [
       'Scholarship programs for underprivileged youth',
-      'STEM skills training for employment',
-      'Micro-enterprise development support'
-    ]
+      'Economic empowerment workshops',
+    ],
   },
   {
     id: 2,
@@ -32,9 +31,8 @@ const sdgGoals = [
     description: 'End hunger, achieve food security and improved nutrition through agricultural innovation.',
     initiatives: [
       'Smart agriculture technology training',
-      'Food security innovation challenges',
-      'Sustainable farming education programs'
-    ]
+      'Community farming initiatives',
+    ],
   },
   {
     id: 3,
@@ -43,9 +41,8 @@ const sdgGoals = [
     description: 'Ensure healthy lives and promote well-being for all at all ages.',
     initiatives: [
       'Health technology innovation labs',
-      'Mental wellness programs for students',
-      'Healthcare accessibility projects'
-    ]
+      'Medical device accessibility programs',
+    ],
   },
   {
     id: 4,
@@ -54,9 +51,8 @@ const sdgGoals = [
     description: 'Ensure inclusive and equitable quality education and promote lifelong learning.',
     initiatives: [
       'STEM curriculum development',
-      'Teacher training programs',
-      'Digital literacy initiatives'
-    ]
+      'Digital learning platforms',
+    ],
   },
   {
     id: 5,
@@ -66,8 +62,7 @@ const sdgGoals = [
     initiatives: [
       'Girls in STEM mentorship programs',
       'Women leadership development',
-      'Gender-inclusive innovation challenges'
-    ]
+    ],
   },
 ];
 
