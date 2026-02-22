@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import heroImage from '../assets/asset_1.jpg';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -131,7 +132,7 @@ export default function Hero() {
         >
           <div className="red-overlay w-full h-full">
             <img
-              src="/assets/asset_1.jpg"
+              src={heroImage}
               alt="Students working on robotics"
               className="w-full h-full object-cover min-h-[280px] lg:min-h-0"
             />
