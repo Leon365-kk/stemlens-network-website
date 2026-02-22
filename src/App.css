@@ -1,0 +1,56 @@
+/* App-specific styles */
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section base styles */
+section {
+  position: relative;
+  width: 100%;
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 55px rgba(11, 30, 59, 0.15);
+}
+
+/* Button transitions */
+button {
+  transition: all 0.3s ease;
+}
+
+/* Link transitions */
+a {
+  transition: color 0.2s ease;
+}
+
+/* Image loading optimization */
+img {
+  will-change: transform;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .grain-overlay {
+    opacity: 0.02;
+  }
+}
