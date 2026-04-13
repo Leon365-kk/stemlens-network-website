@@ -40,6 +40,10 @@ export default function JoinCTA() {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
+      if (!sectionRef.current || !cardRef.current || !titleRef.current) {
+        return;
+      }
+
       const scrollTl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,

@@ -1,0 +1,1434 @@
+[
+    {
+        "name":  "Smart 4WD Robot Set",
+        "base":  "3d-printer-kit-320x320.jpg",
+        "term":  "3d-printer-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Jumper Wires Pack (Male to Male)",
+        "base":  "jumper-wires-320x320.jpg",
+        "term":  "jumper-wires",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Dupont Connector Set",
+        "base":  "dupont-connectors-320x320.jpg",
+        "term":  "dupont-connectors",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "M3 x 4 Hexagon Stainless Steel Nut + M3*8 Stainless Screws",
+        "base":  "tactile-buttons-320x320.jpg",
+        "term":  "tactile-buttons",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "2pin Tactile Button 3.6×3.5mm Side push (SMD)",
+        "base":  "push-buttons-320x320.jpg",
+        "term":  "push-buttons",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Drone Frame Kit (250mm)",
+        "base":  "drone-frame-320x320.jpg",
+        "term":  "drone-frame",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Brushless DC Motor 2204",
+        "base":  "brushless-motor-320x320.jpg",
+        "term":  "brushless-motor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "OV2640 Camera Module",
+        "base":  "ov2640-camera-320x320.jpg",
+        "term":  "ov2640-camera",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Thermal Camera Module MLX90640",
+        "base":  "thermal-camera-320x320.jpg",
+        "term":  "thermal-camera",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NRF24L01 Wireless Module",
+        "base":  "nrf24l01-320x320.jpg",
+        "term":  "nrf24l01",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ESP8266 WiFi Module",
+        "base":  "esp8266-320x320.jpg",
+        "term":  "esp8266",
+        "count":  2,
+        "bestSlug":  "breadboardadapter-fur-esp-01s-breadboard-zu-esp8266-01s-serial-wireless-wifi-module-979085",
+        "score":  0.143
+    },
+    {
+        "name":  "OLED Display 0.96 inch I2C",
+        "base":  "oled-display-320x320.jpg",
+        "term":  "oled-display",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "TFT LCD Display 2.4 inch",
+        "base":  "tft-lcd-320x320.jpg",
+        "term":  "tft-lcd",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NEMA 17 Stepper Motor",
+        "base":  "nema17-stepper-320x320.jpg",
+        "term":  "nema17-stepper",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "A4988 Stepper Motor Driver",
+        "base":  "a4988-driver-320x320.jpg",
+        "term":  "a4988-driver",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Li-Po Battery 3.7V 1000mAh",
+        "base":  "lipo-battery-320x320.jpg",
+        "term":  "lipo-battery",
+        "count":  1,
+        "bestSlug":  "lipo-battery-2",
+        "score":  0.182
+    },
+    {
+        "name":  "Li-Po Battery 3.7V 2200mAh",
+        "base":  "lipo-2200mah-320x320.jpg",
+        "term":  "lipo-2200mah",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "3MM LED yellow + 3MM LED green + 3MM LED blue",
+        "base":  "555-timer-ic-320x320.jpg",
+        "term":  "555-timer-ic",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "CD4017 Decade Counter IC",
+        "base":  "cd4017-ic-320x320.jpg",
+        "term":  "cd4017-ic",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "AND Gate IC (7408)",
+        "base":  "and-gate-ic-320x320.jpg",
+        "term":  "and-gate-ic",
+        "count":  1,
+        "bestSlug":  "50pcs-sn74hc08n-74hc08-quad-2-input-and-gate-ic__27882-1552615848",
+        "score":  0.158
+    },
+    {
+        "name":  "OR Gate IC (7432)",
+        "base":  "or-gate-ic-320x320.jpg",
+        "term":  "or-gate-ic",
+        "count":  1,
+        "bestSlug":  "74hc02-nor-gate-ic-500x500",
+        "score":  0.143
+    },
+    {
+        "name":  "NOT Gate IC (7404)",
+        "base":  "not-gate-ic-320x320.jpg",
+        "term":  "not-gate-ic",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Uno R3",
+        "base":  "arduino-uno-r3-320x320.jpg",
+        "term":  "arduino-uno-r3",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Nano",
+        "base":  "arduino-nano-320x320.jpg",
+        "term":  "arduino-nano",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ESP32 Dev Board",
+        "base":  "esp32-dev-board-320x320.jpg",
+        "term":  "esp32-dev-board",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Raspberry Pi 4 Model B",
+        "base":  "rpi4-model-b-320x320.jpg",
+        "term":  "rpi4-model-b",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "SG90 Servo Motor",
+        "base":  "sg90-servo-320x320.jpg",
+        "term":  "sg90-servo",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "MG996R Servo Motor",
+        "base":  "mg996r-servo-320x320.jpg",
+        "term":  "mg996r-servo",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "BMS 3S 30A",
+        "base":  "bms-3s-30a-320x320.jpg",
+        "term":  "bms-3s-30a",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC-DC Buck Converter 5V 3A",
+        "base":  "buck-converter-320x320.jpg",
+        "term":  "buck-converter",
+        "count":  1,
+        "bestSlug":  "step-down-buck-converter-5-40v-to-1-2-35v-power-supply-module-300w-9a",
+        "score":  0.095
+    },
+    {
+        "name":  "5V 2A Power Adapter",
+        "base":  "power-adapter-320x320.jpg",
+        "term":  "power-adapter",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Robot Wheel 65mm",
+        "base":  "robot-wheel-320x320.jpg",
+        "term":  "robot-wheel",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Flexible Shaft Coupling 5x5mm",
+        "base":  "shaft-coupling-320x320.jpg",
+        "term":  "shaft-coupling",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC Motor 12V 100RPM",
+        "base":  "dc-motor-12v-320x320.jpg",
+        "term":  "dc-motor-12v",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC Motor 6V 200RPM",
+        "base":  "dc-motor-6v-320x320.jpg",
+        "term":  "dc-motor-6v",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "L298N Motor Driver Module",
+        "base":  "l298n-driver-320x320.jpg",
+        "term":  "l298n-driver",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DRV8825 Stepper Driver",
+        "base":  "drv8825-driver-320x320.jpg",
+        "term":  "drv8825-driver",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Motor Mount Bracket",
+        "base":  "motor-mount-320x320.jpg",
+        "term":  "motor-mount",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Wheel Hub Adapter",
+        "base":  "wheel-hub-320x320.jpg",
+        "term":  "wheel-hub",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "BMS 4S 40A",
+        "base":  "bms-4s-40a-320x320.jpg",
+        "term":  "bms-4s-40a",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "BMS 6S 30A",
+        "base":  "bms-6s-30a-320x320.jpg",
+        "term":  "bms-6s-30a",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "18650 Li-ion Battery 3000mAh",
+        "base":  "18650-battery-320x320.jpg",
+        "term":  "18650-battery",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "18650 Li-ion Battery 3500mAh",
+        "base":  "18650-3500mah-320x320.jpg",
+        "term":  "18650-3500mah",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "18650 Battery Holder 2S",
+        "base":  "battery-holder-2s-320x320.jpg",
+        "term":  "battery-holder-2s",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "18650 Battery Holder 3S",
+        "base":  "battery-holder-3s-320x320.jpg",
+        "term":  "battery-holder-3s",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "5V Relay Module 2 Channel",
+        "base":  "relay-module-2ch-320x320.jpg",
+        "term":  "relay-module-2ch",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "12V Relay Module 4 Channel",
+        "base":  "relay-module-4ch-320x320.jpg",
+        "term":  "relay-module-4ch",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Breadboard 830 Points",
+        "base":  "breadboard-830-320x320.jpg",
+        "term":  "breadboard-830",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Jumper Wire Set (120pcs)",
+        "base":  "jumper-set-120pcs-320x320.jpg",
+        "term":  "jumper-set-120pcs",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Mini Water Pump 3-6V",
+        "base":  "water-pump-320x320.jpg",
+        "term":  "water-pump",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Solenoid Valve 12V",
+        "base":  "solenoid-valve-320x320.jpg",
+        "term":  "solenoid-valve",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Robot Chassis Kit 2WD",
+        "base":  "robot-chassis-2wd-320x320.jpg",
+        "term":  "robot-chassis-2wd",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Robot Chassis Kit 4WD",
+        "base":  "robot-chassis-4wd-320x320.jpg",
+        "term":  "robot-chassis-4wd",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Resistor Kit 1/4W (560pcs)",
+        "base":  "resistor-kit-560pcs-320x320.jpg",
+        "term":  "resistor-kit-560pcs",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Capacitor Kit Assorted (100pcs)",
+        "base":  "capacitor-kit-100pcs-320x320.jpg",
+        "term":  "capacitor-kit-100pcs",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Diode Assortment Kit (200pcs)",
+        "base":  "diode-kit-200pcs-320x320.jpg",
+        "term":  "diode-kit-200pcs",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "XOR Gate IC (7486)",
+        "base":  "xor-gate-ic-320x320.jpg",
+        "term":  "xor-gate-ic",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NAND Gate IC (7400)",
+        "base":  "nand-gate-ic-320x320.jpg",
+        "term":  "nand-gate-ic",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NOR Gate IC (7402)",
+        "base":  "nor-gate-ic-320x320.jpg",
+        "term":  "nor-gate-ic",
+        "count":  1,
+        "bestSlug":  "74hc02-nor-gate-ic-500x500",
+        "score":  0.214
+    },
+    {
+        "name":  "Ceramic Resonator 8MHz",
+        "base":  "ceramic-resonator-8mhz-320x320.jpg",
+        "term":  "ceramic-resonator-8mhz",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Crystal Oscillator 16MHz",
+        "base":  "crystal-16mhz-320x320.jpg",
+        "term":  "crystal-16mhz",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Inductor Kit 10 Values",
+        "base":  "inductor-kit-320x320.jpg",
+        "term":  "inductor-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LM358 Op-Amp IC",
+        "base":  "lm358-opamp-320x320.jpg",
+        "term":  "lm358-opamp",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LM741 Op-Amp IC",
+        "base":  "lm741-opamp-320x320.jpg",
+        "term":  "lm741-opamp",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NE555 Precision Timer",
+        "base":  "ne555-timer-320x320.jpg",
+        "term":  "ne555-timer",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LM317 Voltage Regulator",
+        "base":  "lm317-regulator-320x320.jpg",
+        "term":  "lm317-regulator",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ULN2003 Darlington Array",
+        "base":  "uln2003-darlington-320x320.jpg",
+        "term":  "uln2003-darlington",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "IRF540N N-Channel MOSFET",
+        "base":  "irf540n-mosfet-320x320.jpg",
+        "term":  "irf540n-mosfet",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "IRF9540 P-Channel MOSFET",
+        "base":  "irf9540-mosfet-320x320.jpg",
+        "term":  "irf9540-mosfet",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "2N7000 N-Channel MOSFET",
+        "base":  "2n7000-mosfet-320x320.jpg",
+        "term":  "2n7000-mosfet",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "BS170 N-Channel MOSFET",
+        "base":  "bs170-mosfet-320x320.jpg",
+        "term":  "bs170-mosfet",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "USB to TTL Converter Module",
+        "base":  "usb-ttl-converter-320x320.jpg",
+        "term":  "usb-ttl-converter",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "I2C LCD Module 20x4",
+        "base":  "i2c-lcd-20x4-320x320.jpg",
+        "term":  "i2c-lcd-20x4",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "PIR Motion Sensor Module",
+        "base":  "pir-sensor-320x320.jpg",
+        "term":  "pir-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Ultrasonic Sensor HC-SR04",
+        "base":  "ultrasonic-sensor-320x320.jpg",
+        "term":  "ultrasonic-sensor",
+        "count":  1,
+        "bestSlug":  "ultrasonic-sensor-1",
+        "score":  0.182
+    },
+    {
+        "name":  "DHT11 Temperature \u0026 Humidity Sensor",
+        "base":  "dht11-sensor-320x320.jpg",
+        "term":  "dht11-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DHT22 Temperature \u0026 Humidity Sensor",
+        "base":  "dht22-sensor-320x320.jpg",
+        "term":  "dht22-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "GPS Module NEO-6M",
+        "base":  "gps-module-320x320.jpg",
+        "term":  "gps-module",
+        "count":  1,
+        "bestSlug":  "gy-neo6mv2-gps-module-super-signal-with-antenna-for-arduino-raspberry-pi",
+        "score":  0.095
+    },
+    {
+        "name":  "WiFi Antenna 2.4GHz 5dBi",
+        "base":  "wifi-antenna-320x320.jpg",
+        "term":  "wifi-antenna",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "RS485 to TTL Converter",
+        "base":  "rs485-converter-320x320.jpg",
+        "term":  "rs485-converter",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "CAN Bus Module MCP2515",
+        "base":  "can-bus-module-320x320.jpg",
+        "term":  "can-bus-module",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ESC Brushless 30A",
+        "base":  "esc-30a-320x320.jpg",
+        "term":  "esc-30a",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Drone Propeller Set 10inch",
+        "base":  "propeller-set-320x320.jpg",
+        "term":  "propeller-set",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Flight Controller Pixhawk",
+        "base":  "flight-controller-320x320.jpg",
+        "term":  "flight-controller",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Breadboard Jumper Wires (140pcs)",
+        "base":  "breadboard-jumpers-320x320.jpg",
+        "term":  "breadboard-jumpers",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Alligator Clip Test Leads (5pcs)",
+        "base":  "alligator-clips-320x320.jpg",
+        "term":  "alligator-clips",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Banana Plug to Test Lead Set",
+        "base":  "banana-plug-leads-320x320.jpg",
+        "term":  "banana-plug-leads",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "M4 Stainless Steel Screws (20pcs)",
+        "base":  "m4-screws-320x320.jpg",
+        "term":  "m4-screws",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "M2 Stainless Steel Screws (50pcs)",
+        "base":  "m2-screws-320x320.jpg",
+        "term":  "m2-screws",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Hex Standoff Spacer M3 (10pcs)",
+        "base":  "hex-standoff-320x320.jpg",
+        "term":  "hex-standoff",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Toggle Switch SPDT (5pcs)",
+        "base":  "toggle-switch-320x320.jpg",
+        "term":  "toggle-switch",
+        "count":  1,
+        "bestSlug":  "3mm-ss12d00g3-3pin-toggle-switch-fr-05-241",
+        "score":  0.118
+    },
+    {
+        "name":  "Slide Switch SPDT (10pcs)",
+        "base":  "slide-switch-320x320.jpg",
+        "term":  "slide-switch",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Rotary Encoder Module",
+        "base":  "rotary-encoder-320x320.jpg",
+        "term":  "rotary-encoder",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "PLA Filament 1.75mm (1kg)",
+        "base":  "pla-filament-320x320.jpg",
+        "term":  "pla-filament",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ABS Filament 1.75mm (1kg)",
+        "base":  "abs-filament-320x320.jpg",
+        "term":  "abs-filament",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "3D Printer Nozzle 0.4mm Brass",
+        "base":  "printer-nozzle-320x320.jpg",
+        "term":  "printer-nozzle",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Heated Bed 220x220mm",
+        "base":  "heated-bed-320x320.jpg",
+        "term":  "heated-bed",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Starter Kit Premium",
+        "base":  "arduino-premium-kit-320x320.jpg",
+        "term":  "arduino-premium-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Raspberry Pi Starter Kit",
+        "base":  "rpi-starter-kit-320x320.jpg",
+        "term":  "rpi-starter-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "IoT Learning Kit ESP32",
+        "base":  "iot-learning-kit-320x320.jpg",
+        "term":  "iot-learning-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ESP32-CAM Module",
+        "base":  "esp32-cam-320x320.jpg",
+        "term":  "esp32-cam",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "STM32F103C8T6 Blue Pill",
+        "base":  "stm32-blue-pill-320x320.jpg",
+        "term":  "stm32-blue-pill",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Mega 2560",
+        "base":  "arduino-mega-320x320.jpg",
+        "term":  "arduino-mega",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "MG996R High Torque Servo",
+        "base":  "mg996r-servo-320x320.jpg",
+        "term":  "mg996r-servo",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DS3218 20kg Digital Servo",
+        "base":  "ds3218-servo-320x320.jpg",
+        "term":  "ds3218-servo",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NEMA 23 Stepper Motor",
+        "base":  "nema23-stepper-320x320.jpg",
+        "term":  "nema23-stepper",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "28BYJ-48 Stepper Motor with Driver",
+        "base":  "28byj48-stepper-320x320.jpg",
+        "term":  "28byj48-stepper",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC-DC Boost Converter 5V to 12V",
+        "base":  "boost-converter-320x320.jpg",
+        "term":  "boost-converter",
+        "count":  1,
+        "bestSlug":  "xl6009-dc-dc-adjustable-boost-converter-module-india-800x800-1",
+        "score":  0.176
+    },
+    {
+        "name":  "Solar Panel 6V 2W",
+        "base":  "solar-panel-320x320.jpg",
+        "term":  "solar-panel",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "TP4056 Li-ion Charger Module",
+        "base":  "tp4056-charger-320x320.jpg",
+        "term":  "tp4056-charger",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "RGB LED Strip 5M 300 LEDs",
+        "base":  "rgb-led-strip-320x320.jpg",
+        "term":  "rgb-led-strip",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LED Matrix 8x8 Red",
+        "base":  "led-matrix-8x8-320x320.jpg",
+        "term":  "led-matrix-8x8",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "WS2812B Addressable LEDs (50pcs)",
+        "base":  "ws2812b-leds-320x320.jpg",
+        "term":  "ws2812b-leds",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Super Capacitor 5.5V 0.1F",
+        "base":  "super-capacitor-320x320.jpg",
+        "term":  "super-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Electrolytic Capacitor Kit (100pcs)",
+        "base":  "electrolytic-cap-kit-320x320.jpg",
+        "term":  "electrolytic-cap-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "ATmega328P-PU Microcontroller",
+        "base":  "atmega328p-320x320.jpg",
+        "term":  "atmega328p",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DS3231 Real Time Clock Module",
+        "base":  "ds3231-rtc-320x320.jpg",
+        "term":  "ds3231-rtc",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "SD Card Module",
+        "base":  "sd-card-module-320x320.jpg",
+        "term":  "sd-card-module",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Robot Arm Kit 4DOF with Gripper",
+        "base":  "robot-arm-4dof-320x320.jpg",
+        "term":  "robot-arm-4dof",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Line Following Sensor Array",
+        "base":  "line-sensor-array-320x320.jpg",
+        "term":  "line-sensor-array",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Obstacle Avoidance Sensor Kit",
+        "base":  "obstacle-sensor-kit-320x320.jpg",
+        "term":  "obstacle-sensor-kit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "RGB LED 5MM 4 Pin",
+        "base":  "rgb-led-5mm-320x320.jpg",
+        "term":  "rgb-led-5mm",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NE555P High Precision Timer",
+        "base":  "ne555p-timer-320x320.jpg",
+        "term":  "ne555p-timer",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "PNP L7805C Voltage Regulator",
+        "base":  "l7805c-320x320.jpg",
+        "term":  "l7805c",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "PNP BC327 Transistor",
+        "base":  "bc327-transistor-320x320.jpg",
+        "term":  "bc327-transistor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "L7812CV Voltage Regulator",
+        "base":  "l7812cv-320x320.jpg",
+        "term":  "l7812cv",
+        "count":  2,
+        "bestSlug":  "l7812cv-st-integrated-circuit-voltage-regulator-2",
+        "score":  0.2
+    },
+    {
+        "name":  "NPN IRF540 Transistor",
+        "base":  "irf540-transistor-320x320.jpg",
+        "term":  "irf540-transistor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "IRFZ44N MOSFET",
+        "base":  "irfz44n-320x320.jpg",
+        "term":  "irfz44n",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NPN 2N7000 Transistor",
+        "base":  "2n7000-transistor-320x320.jpg",
+        "term":  "2n7000-transistor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NPN MPSA06 Transistor",
+        "base":  "mpsa06-transistor-320x320.jpg",
+        "term":  "mpsa06-transistor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "NPN TIP31 Transistor",
+        "base":  "tip31-transistor-320x320.jpg",
+        "term":  "tip31-transistor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "50V 1UF Capacitor",
+        "base":  "1uf-50v-capacitor-320x320.jpg",
+        "term":  "1uf-50v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "10V 470uF Capacitor",
+        "base":  "470uf-10v-capacitor-320x320.jpg",
+        "term":  "470uf-10v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "50V 0.1uF Capacitor",
+        "base":  "0.1uf-50v-capacitor-320x320.jpg",
+        "term":  "0.1uf-50v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "50V 4.7 uF Capacitor",
+        "base":  "4.7uf-50v-capacitor-320x320.jpg",
+        "term":  "4.7uf-50v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "50V 0.47 uF Capacitor",
+        "base":  "0.47uf-50v-capacitor-320x320.jpg",
+        "term":  "0.47uf-50v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "16V 47uF Capacitor",
+        "base":  "47uf-16v-capacitor-320x320.jpg",
+        "term":  "47uf-16v-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "2.2µF 275VAC X2 Metallized Polypropylene Film Capacitor",
+        "base":  "x2-capacitor-320x320.jpg",
+        "term":  "x2-capacitor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Supercapacitor 2.7V 10F",
+        "base":  "supercapacitor-2.7v-10f-320x320.jpg",
+        "term":  "supercapacitor-2.7v-10f",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino USB Cable",
+        "base":  "arduino-usb-cable-320x320.jpg",
+        "term":  "arduino-usb-cable",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Nano Cable",
+        "base":  "arduino-nano-cable-320x320.jpg",
+        "term":  "arduino-nano-cable",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino UNO R3 V5.0 Expansion Board",
+        "base":  "uno-expansion-board-320x320.jpg",
+        "term":  "uno-expansion-board",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Pro Mini 5V/16MHz ATMEGA 328P",
+        "base":  "arduino-pro-mini-320x320.jpg",
+        "term":  "arduino-pro-mini",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Nano ATmega328P 5V Microcontroller",
+        "base":  "arduino-nano-atmega328p-320x320.jpg",
+        "term":  "arduino-nano-atmega328p",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Arduino Uno",
+        "base":  "arduino-uno-320x320.jpg",
+        "term":  "arduino-uno",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Raspberry Pi Camera 5MP Module",
+        "base":  "rpi-camera-5mp-320x320.jpg",
+        "term":  "rpi-camera-5mp",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Storage Box",
+        "base":  "storage-box-320x320.jpg",
+        "term":  "storage-box",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Breadboard 400 Points",
+        "base":  "breadboard-400-320x320.jpg",
+        "term":  "breadboard-400",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Multimeter Digital",
+        "base":  "digital-multimeter-320x320.jpg",
+        "term":  "digital-multimeter",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Soldering Iron 25W",
+        "base":  "soldering-iron-25w-320x320.jpg",
+        "term":  "soldering-iron-25w",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Solder Wire 1mm 100g",
+        "base":  "solder-wire-320x320.jpg",
+        "term":  "solder-wire",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "PCB Board Prototype 5x7cm",
+        "base":  "pcb-board-5x7cm-320x320.jpg",
+        "term":  "pcb-board-5x7cm",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Heat Shrink Tube Assorted (100pcs)",
+        "base":  "heat-shrink-tube-320x320.jpg",
+        "term":  "heat-shrink-tube",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Wire Stripper Tool",
+        "base":  "wire-stripper-320x320.jpg",
+        "term":  "wire-stripper",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Precision Screwdriver Set (30pcs)",
+        "base":  "screwdriver-set-320x320.jpg",
+        "term":  "screwdriver-set",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Helping Hands Tool with Magnifier",
+        "base":  "helping-hands-320x320.jpg",
+        "term":  "helping-hands",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Digital Caliper 150mm",
+        "base":  "digital-caliper-320x320.jpg",
+        "term":  "digital-caliper",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Photoresistor LDR 55mm",
+        "base":  "photoresistor-ldr-320x320.jpg",
+        "term":  "photoresistor-ldr",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Thermistor NTC 10K",
+        "base":  "thermistor-ntc-320x320.jpg",
+        "term":  "thermistor-ntc",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Buzzer Active 12V",
+        "base":  "buzzer-12v-320x320.jpg",
+        "term":  "buzzer-12v",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Piezo Buzzer 5V",
+        "base":  "piezo-buzzer-5v-320x320.jpg",
+        "term":  "piezo-buzzer-5v",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Relay 5V 1 Channel",
+        "base":  "relay-5v-1ch-320x320.jpg",
+        "term":  "relay-5v-1ch",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Relay 12V 1 Channel",
+        "base":  "relay-12v-1ch-320x320.jpg",
+        "term":  "relay-12v-1ch",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Power Supply 12V 2A",
+        "base":  "power-supply-12v-2a-320x320.jpg",
+        "term":  "power-supply-12v-2a",
+        "count":  1,
+        "bestSlug":  "re-power-supply-12v-2a-acdc-analogue-2-1-1",
+        "score":  0.25
+    },
+    {
+        "name":  "Power Supply 5V 3A",
+        "base":  "power-supply-5v-3a-320x320.jpg",
+        "term":  "power-supply-5v-3a",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC Barrel Jack Adapter 2.1mm",
+        "base":  "barrel-jack-adapter-320x320.jpg",
+        "term":  "barrel-jack-adapter",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "7 Segment Display 4 Digit",
+        "base":  "7-segment-4digit-320x320.jpg",
+        "term":  "7-segment-4digit",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LED Display 0.56 inch 4 Digit",
+        "base":  "led-display-0.56-320x320.jpg",
+        "term":  "led-display-0.56",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "TFT Touch Display 2.8 inch",
+        "base":  "tft-touch-2.8-320x320.jpg",
+        "term":  "tft-touch-2.8",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "IR Infrared Obstacle Avoidance Sensor",
+        "base":  "ir-obstacle-sensor-320x320.jpg",
+        "term":  "ir-obstacle-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Flame Sensor Module",
+        "base":  "flame-sensor-320x320.jpg",
+        "term":  "flame-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Sound Sensor Module",
+        "base":  "sound-sensor-320x320.jpg",
+        "term":  "sound-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Vibration Sensor Module",
+        "base":  "vibration-sensor-320x320.jpg",
+        "term":  "vibration-sensor",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "HC-05 Bluetooth Module",
+        "base":  "hc-05-bluetooth-320x320.jpg",
+        "term":  "hc-05-bluetooth",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "LoRa SX1278 Module 433MHz",
+        "base":  "lora-sx1278-320x320.jpg",
+        "term":  "lora-sx1278",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "SIM800L GSM Module",
+        "base":  "sim800l-gsm-320x320.jpg",
+        "term":  "sim800l-gsm",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "DC Gear Motor 12V 200RPM",
+        "base":  "dc-gear-motor-12v-320x320.jpg",
+        "term":  "dc-gear-motor-12v",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Stepper Motor Driver TB6600",
+        "base":  "tb6600-driver-320x320.jpg",
+        "term":  "tb6600-driver",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    },
+    {
+        "name":  "Servo Tester",
+        "base":  "servo-tester-320x320.jpg",
+        "term":  "servo-tester",
+        "count":  0,
+        "bestSlug":  "",
+        "score":  0
+    }
+]

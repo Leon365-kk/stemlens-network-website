@@ -2,6 +2,19 @@ import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import heroImage from '../../assets/asset_1.jpg';
+import SafeImage from '../components/SafeImage';
+import AssetErrorBoundary from '../components/AssetErrorBoundary';
+import { 
+  ANIMATION_TIMING, 
+  ANIMATION_VALUES, 
+  EASING 
+} from '../constants/animations';
+import { 
+  VIEWPORT_HEIGHTS, 
+  VIEWPORT_WIDTHS, 
+  BORDER_RADIUS, 
+  SHADOWS 
+} from '../constants/layout';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -16,43 +29,49 @@ export default function Hero() {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
+      if (!sectionRef.current || !cardARef.current || !cardBRef.current || 
+          !eyebrowRef.current || !headlineRef.current || !subheadRef.current || 
+          !ctaRef.current) {
+        return;
+      }
+
       // Entrance animation (auto-play on load)
-      const tl = gsap.timeline({ defaults: { ease: 'power2.out' } });
+      const tl = gsap.timeline({ defaults: { ease: EASING.POWER2_OUT } });
 
       tl.fromTo(
         cardARef.current,
-        { x: -60, opacity: 0 },
-        { x: 0, opacity: 1, duration: 0.6 },
-        0
+        { x: ANIMATION_VALUES.X_NEGATIVE_MEDIUM, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { x: ANIMATION_VALUES.X_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, duration: ANIMATION_TIMING.DURATION_EXTRA_SLOW },
+        ANIMATION_TIMING.DELAY_IMMEDIATE
       )
         .fromTo(
           cardBRef.current,
-          { x: 60, opacity: 0, scale: 0.98 },
-          { x: 0, opacity: 1, scale: 1, duration: 0.6 },
-          0.15
+          { x: ANIMATION_VALUES.X_POSITIVE_MEDIUM, opacity: ANIMATION_VALUES.OPACITY_HIDDEN, scale: ANIMATION_VALUES.SCALE_SLIGHTLY_SMALL },
+          { x: ANIMATION_VALUES.X_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, scale: ANIMATION_VALUES.SCALE_NORMAL, duration: ANIMATION_TIMING.DURATION_EXTRA_SLOW },
+          ANIMATION_TIMING.DELAY_MEDIUM
         )
         .fromTo(
           eyebrowRef.current,
-          { y: 12, opacity: 0 },
-          { y: 0, opacity: 1, duration: 0.3 },
+          { y: ANIMATION_VALUES.Y_NEGATIVE_MINI, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+          { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, duration: ANIMATION_TIMING.DURATION_FAST },
           0.35
         )
         .fromTo(
           headlineRef.current,
-          { y: 28, opacity: 0 },
-          { y: 0, opacity: 1, duration: 0.5 },
+          { y: ANIMATION_VALUES.Y_NEGATIVE_LARGE, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+          { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, duration: ANIMATION_TIMING.DURATION_SLOW },
           0.45
         )
         .fromTo(
           subheadRef.current,
-          { y: 18, opacity: 0 },
-          { y: 0, opacity: 1, duration: 0.4 },
+          { y: ANIMATION_VALUES.Y_NEGATIVE_SMALL, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+          { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, duration: ANIMATION_TIMING.DURATION_MEDIUM },
           0.65
         )
         .fromTo(
           ctaRef.current,
-          { y: 18, opacity: 0 },
-          { y: 0, opacity: 1, duration: 0.4 },
+          { y: ANIMATION_VALUES.Y_NEGATIVE_SMALL, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+          { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, duration: ANIMATION_TIMING.DURATION_MEDIUM },
           0.75
         );
 
@@ -130,13 +149,18 @@ export default function Hero() {
           ref={cardBRef}
           className="relative w-full lg:w-[44vw] lg:absolute lg:left-[52vw] lg:top-[10vh] lg:h-[80vh] mt-4 lg:mt-0 rounded-[18px] overflow-hidden shadow-[0_18px_45px_rgba(11,30,59,0.10)]"
         >
-          <div className="red-overlay w-full h-full">
-            <img
-              src={heroImage}
-              alt="Students working on robotics"
-              className="w-full h-full object-cover min-h-[280px] lg:min-h-0"
-            />
-          </div>
+          <AssetErrorBoundary assetType="image">
+            <div className="red-overlay w-full h-full">
+              <SafeImage
+                src={heroImage}
+                alt="Students working on robotics"
+                className="w-full h-full object-cover min-h-[280px] lg:min-h-0"
+                onError={(error) => {
+                  console.warn('Hero image failed to load:', error);
+                }}
+              />
+            </div>
+          </AssetErrorBoundary>
         </div>
       </div>
     </section>

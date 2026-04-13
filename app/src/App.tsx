@@ -67,7 +67,7 @@ function App() {
   }, []);
 
   return (
-    <div className="relative min-h-screen bg-[#F6F7FB]">
+    <div className="relative min-h-screen bg-[#F6F7FB] flex flex-col">
       {/* Grain overlay */}
       <div className="grain-overlay" />
 
@@ -75,7 +75,7 @@ function App() {
       <Navigation />
 
       {/* Main content */}
-      <main className="relative">
+      <main className="relative flex-1">
         <Hero />
         <Programs />
         <Solutions />
@@ -83,8 +83,8 @@ function App() {
         <Impact />
         <Partners />
         <JoinCTA />
-        <Footer />
       </main>
+      <Footer />
     </div>
   );
 }

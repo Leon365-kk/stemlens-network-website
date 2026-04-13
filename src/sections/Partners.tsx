@@ -8,6 +8,8 @@ import unicefLogo from '../logos/unicef.png';
 import wiserLogo from '../logos/wiser.png';
 import gpeLogo from '../logos/gpe.png';
 import unepLogo from '../logos/unep.png';
+import SafeImage from '../components/SafeImage';
+import AssetErrorBoundary from '../components/AssetErrorBoundary';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -25,10 +27,13 @@ export default function Partners() {
   const photoBandRef = useRef<HTMLDivElement>(null);
   const cardRef = useRef<HTMLDivElement>(null);
   const titleRef = useRef<HTMLHeadingElement>(null);
-  const logosRef = useRef<(HTMLDivElement | null)[]>([]);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
+      if (!sectionRef.current || !photoBandRef.current || !cardRef.current || !titleRef.current) {
+        return;
+      }
+
       const scrollTl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,
@@ -62,22 +67,13 @@ export default function Partners() {
         { y: 0, opacity: 1, ease: 'none' },
         0.1
       );
-
-      // Logos
-      logosRef.current.forEach((logo, i) => {
-        if (logo) {
-          scrollTl.fromTo(
-            logo,
-            { y: 14, opacity: 0 },
-            { y: 0, opacity: 1, ease: 'none' },
-            0.12 + i * 0.02
-          );
-        }
-      });
     }, sectionRef);
 
     return () => ctx.revert();
   }, []);
+
+  // Duplicate partners array for seamless looping
+  const duplicatedPartners = [...partners, ...partners];
 
   return (
     <section
@@ -90,13 +86,18 @@ export default function Partners() {
         ref={photoBandRef}
         className="relative w-full h-[120px] lg:h-[18vh] overflow-hidden"
       >
-        <div className="red-overlay w-full h-full">
-          <img
-            src={partnersImage}
-            alt="Partners audience"
-            className="w-full h-full object-cover"
-          />
-        </div>
+        <AssetErrorBoundary assetType="image">
+          <div className="red-overlay w-full h-full">
+            <SafeImage
+              src={partnersImage}
+              alt="Partners audience"
+              className="w-full h-full object-cover"
+              onError={(error) => {
+                console.warn('Partners image failed to load:', error);
+              }}
+            />
+          </div>
+        </AssetErrorBoundary>
       </div>
 
       {/* Logo card */}
@@ -111,21 +112,27 @@ export default function Partners() {
           Our Partners & Supporters
         </h2>
 
-        {/* Partner logos */}
-        <div className="flex flex-wrap justify-center items-center gap-6 lg:gap-8">
-          {partners.map((partner, index) => (
-            <div
-              key={partner.name}
-              ref={(el) => { logosRef.current[index] = el; }}
-              className="flex items-center justify-center p-2 grayscale hover:grayscale-0 transition-all duration-300 hover:-translate-y-1"
-            >
-              <img
-                src={partner.logo}
-                alt={partner.name}
-                className="h-10 lg:h-14 w-auto object-contain"
-              />
-            </div>
-          ))}
+        {/* Partner logos with automatic scrolling */}
+        <div className="relative overflow-hidden">
+          <div className="flex animate-scroll-left">
+            {duplicatedPartners.map((partner, index) => (
+              <div
+                key={`${partner.name}-${index}`}
+                className="flex items-center justify-center p-2 mx-6 lg:mx-8 flex-shrink-0 transition-all duration-300 hover:-translate-y-1"
+              >
+                <AssetErrorBoundary assetType="logo">
+                  <SafeImage
+                    src={partner.logo}
+                    alt={partner.name}
+                    className="h-10 lg:h-14 w-auto object-contain"
+                    onError={(error) => {
+                      console.warn(`Partner logo ${partner.name} failed to load:`, error);
+                    }}
+                  />
+                </AssetErrorBoundary>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </section>

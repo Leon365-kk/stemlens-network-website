@@ -1,0 +1,40 @@
+/**
+ * Sustainable Development Goals constants
+ */
+
+// SDG Goal Numbers
+export const SDG_GOALS = {
+  NO_POVERTY: 1,
+  ZERO_HUNGER: 2,
+  GOOD_HEALTH: 3,
+  QUALITY_EDUCATION: 4,
+  GENDER_EQUALITY: 5,
+  CLEAN_WATER: 6,
+  CLEAN_ENERGY: 7,
+  ECONOMIC_GROWTH: 8,
+  INDUSTRY_INNOVATION: 9,
+  REDUCED_INEQUALITIES: 10,
+  SUSTAINABLE_CITIES: 11,
+  RESPONSIBLE_CONSUMPTION: 12,
+  CLIMATE_ACTION: 13,
+  LIFE_BELOW_WATER: 14,
+  LIFE_ON_LAND: 15,
+  PEACE_JUSTICE: 16,
+  PARTNERSHIPS: 17,
+} as const;
+
+// SDG Grid Configuration
+export const SDG_GRID = {
+  COLUMNS_SMALL: 2,
+  COLUMNS_MEDIUM: 3,
+  COLUMNS_LARGE: 4,
+  GAP: 6,
+  CARD_HEIGHT: 192, // h-48 in pixels
+} as const;
+
+// SDG Animation Settings
+export const SDG_ANIMATION = {
+  HOVER_SCALE: 1.05,
+  TRANSITION_DURATION: 300,
+  SHADOW_DURATION: 300,
+} as const;

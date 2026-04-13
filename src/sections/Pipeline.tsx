@@ -3,6 +3,8 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import worldMap from '../../assets/world_map.jpg';
 import { BookOpen, Trophy, Users, Globe } from 'lucide-react';
+import SafeImage from '../components/SafeImage';
+import AssetErrorBoundary from '../components/AssetErrorBoundary';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -23,6 +25,11 @@ export default function Pipeline() {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
+      if (!sectionRef.current || !cardRef.current || !titleRef.current || 
+          !sublineRef.current || !ctaRef.current) {
+        return;
+      }
+
       const scrollTl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,
@@ -85,13 +92,18 @@ export default function Pipeline() {
       className="relative w-full bg-[#F6F7FB] py-4 lg:py-6"
     >
       {/* World map watermark */}
-      <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-[0.06]">
-        <img
-          src={worldMap}
-          alt=""
-          className="w-[70%] max-w-3xl object-contain"
-        />
-      </div>
+      <AssetErrorBoundary assetType="background">
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-[0.06]">
+          <SafeImage
+            src={worldMap}
+            alt=""
+            className="w-[70%] max-w-3xl object-contain"
+            onError={(error) => {
+              console.warn('Pipeline world map failed to load:', error);
+            }}
+          />
+        </div>
+      </AssetErrorBoundary>
 
       <div
         ref={cardRef}

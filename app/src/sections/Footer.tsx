@@ -37,6 +37,7 @@ export default function Footer() {
   const cardRef = useRef<HTMLDivElement>(null);
   const columnsRef = useRef<(HTMLDivElement | null)[]>([]);
   const [email, setEmail] = useState('');
+  const year = new Date().getFullYear();
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -84,7 +85,7 @@ export default function Footer() {
     <footer
       id="about"
       ref={sectionRef}
-      className="relative w-full bg-[#0B1E3B] pt-6 lg:pt-8"
+      className="relative w-full bg-[#0B1E3B] pt-6 lg:pt-8 z-10"
     >
       <div
         ref={cardRef}
@@ -194,25 +195,35 @@ export default function Footer() {
             </form>
             <div className="flex gap-2">
               <a
-                href="#"
+                href="https://www.facebook.com"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="Facebook"
                 className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/70 hover:bg-white/20 hover:text-white transition-all"
               >
                 <Facebook className="w-3.5 h-3.5" />
               </a>
               <a
-                href="#"
+                href="https://www.twitter.com"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="Twitter"
                 className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/70 hover:bg-white/20 hover:text-white transition-all"
               >
                 <Twitter className="w-3.5 h-3.5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="LinkedIn"
                 className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/70 hover:bg-white/20 hover:text-white transition-all"
               >
                 <Linkedin className="w-3.5 h-3.5" />
               </a>
               <a
-                href="#"
+                href="mailto:hello@stemlens.org"
+                aria-label="Email STEMlens"
                 className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/70 hover:bg-white/20 hover:text-white transition-all"
               >
                 <Mail className="w-3.5 h-3.5" />
@@ -224,17 +235,17 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-white/10 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-white/50 text-xs text-center sm:text-left">
-            © 2024 STEMlens Network. All rights reserved.
+            © {year} STEMlens Network. All rights reserved.
           </p>
           <div className="flex gap-4">
             <a
-              href="#"
+              href="mailto:hello@stemlens.org?subject=Privacy%20Policy%20Request"
               className="text-white/50 text-xs hover:text-white transition-colors"
             >
               Privacy Policy
             </a>
             <a
-              href="#"
+              href="mailto:hello@stemlens.org?subject=Terms%20of%20Use%20Request"
               className="text-white/50 text-xs hover:text-white transition-colors"
             >
               Terms of Use

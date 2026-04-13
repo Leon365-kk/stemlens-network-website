@@ -1,0 +1,1434 @@
+[
+    {
+        "id":  2,
+        "name":  "3D Printer Starter Kit",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/3d-printer-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  3,
+        "name":  "Jumper Wires Pack (Male to Male)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/jumper-wires-320x320.jpg",
+        "bestTitle":  "an image of male-to-male jumper wires:",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/09/male-male-2-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  4,
+        "name":  "Dupont Connector Set",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dupont-connectors-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  7,
+        "name":  "2pin Tactile Button 3.6Ã—3.5mm Side push (SMD)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tactile-buttons-320x320.jpg",
+        "bestTitle":  "2pin Tactile Button  3.6x3.5mm Side push (SMD)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/img_1451-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  8,
+        "name":  "Push Button Switch Set (5pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/push-buttons-320x320.jpg",
+        "bestTitle":  "Push button",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/12/img_6312-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  9,
+        "name":  "Drone Frame Kit (250mm)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/drone-frame-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  10,
+        "name":  "Brushless DC Motor 2204",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/brushless-motor-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  11,
+        "name":  "OV2640 Camera Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ov2640-camera-320x320.jpg",
+        "bestTitle":  "ESP32 Dev Board WiFi+Bluetooth Module with OV2640 Camera Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/01/img_7812-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  12,
+        "name":  "Thermal Camera Module MLX90640",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/thermal-camera-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  13,
+        "name":  "NRF24L01 Wireless Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/nrf24l01-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  14,
+        "name":  "ESP8266 WiFi Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/esp8266-320x320.jpg",
+        "bestTitle":  "ESP8266 ESP-07 Remote Serial Port WIFI Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/es-1-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  15,
+        "name":  "OLED Display 0.96 inch I2C",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/oled-display-320x320.jpg",
+        "bestTitle":  "OLED Display Module  0.96”",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/img_2673-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  16,
+        "name":  "TFT LCD Display 2.4 inch",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tft-lcd-320x320.jpg",
+        "bestTitle":  "2.4 Inch SPI TFT Display Module(No Touch)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8641-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  17,
+        "name":  "NEMA 17 Stepper Motor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/nema17-stepper-320x320.jpg",
+        "bestTitle":  "42mm Nema 17 stepper motor L bracket(with Screw)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/01/img_8404-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  18,
+        "name":  "A4988 Stepper Motor Driver",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/a4988-driver-320x320.jpg",
+        "bestTitle":  "A4988 Stepper Driver Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/07/STEPPER-DRIVER-png-e1690279420602-320x320.png",
+        "score":  1
+    },
+    {
+        "id":  19,
+        "name":  "Li-Po Battery 3.7V 1000mAh",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lipo-battery-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  20,
+        "name":  "Li-Po Battery 3.7V 2200mAh",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lipo-2200mah-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  41,
+        "name":  "555 Timer IC",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/555-timer-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  42,
+        "name":  "CD4017 Decade Counter IC",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/cd4017-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  43,
+        "name":  "AND Gate IC (7408)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/and-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  44,
+        "name":  "OR Gate IC (7432)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/or-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  45,
+        "name":  "NOT Gate IC (7404)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/not-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  27,
+        "name":  "Arduino Uno R3",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-uno-r3-320x320.jpg",
+        "bestTitle":  "Arduino UNO R3 V5.0 Expansion Board",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8636-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  28,
+        "name":  "Arduino Nano",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-nano-320x320.jpg",
+        "bestTitle":  "Arduino Nano cable",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/09/img_2221-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  46,
+        "name":  "ESP32 Dev Board",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/esp32-dev-board-320x320.jpg",
+        "bestTitle":  "ESP32-S Chip Breakout Board",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/08/adapter-breakout-board-for-esp-32f-esp32-esp-wroom-32-wireless-bluetooth-module-800x800-1-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  47,
+        "name":  "Raspberry Pi 4 Model B",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rpi4-model-b-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  48,
+        "name":  "SG90 Servo Motor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/sg90-servo-320x320.jpg",
+        "bestTitle":  "sg90 servo motor 360 degrees",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/05/1000820352-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  49,
+        "name":  "MG996R Servo Motor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/mg996r-servo-320x320.jpg",
+        "bestTitle":  "MG996R(Metal gear) High Torque Servo  Motor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/SERVO-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  50,
+        "name":  "BMS 3S 30A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/bms-3s-30a-320x320.jpg",
+        "bestTitle":  "3S BMS Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/02/img_8877-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  51,
+        "name":  "DC-DC Buck Converter 5V 3A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/buck-converter-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  52,
+        "name":  "5V 2A Power Adapter",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/power-adapter-320x320.jpg",
+        "bestTitle":  "Adapter 5V 2A",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/10/5V-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  53,
+        "name":  "Robot Wheel 65mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/robot-wheel-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  54,
+        "name":  "Flexible Shaft Coupling 5x5mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/shaft-coupling-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  55,
+        "name":  "DC Motor 12V 100RPM",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dc-motor-12v-320x320.jpg",
+        "bestTitle":  "DC Motor 12V 120 rpm",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9101-1-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  56,
+        "name":  "DC Motor 6V 200RPM",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dc-motor-6v-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  57,
+        "name":  "L298N Motor Driver Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/l298n-driver-320x320.jpg",
+        "bestTitle":  "Mini L298N DC Motor Driver Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8644-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  58,
+        "name":  "DRV8825 Stepper Driver",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/drv8825-driver-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  59,
+        "name":  "Motor Mount Bracket",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/motor-mount-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  60,
+        "name":  "Wheel Hub Adapter",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/wheel-hub-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  61,
+        "name":  "BMS 4S 40A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/bms-4s-40a-320x320.jpg",
+        "bestTitle":  "4S BMS module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/02/img_8878-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  62,
+        "name":  "BMS 6S 30A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/bms-6s-30a-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  63,
+        "name":  "18650 Li-ion Battery 3000mAh",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/18650-battery-320x320.jpg",
+        "bestTitle":  "Triple Cell 18650 LI-ION  Battery Holder (3 cell)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9079-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  64,
+        "name":  "18650 Li-ion Battery 3500mAh",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/18650-3500mah-320x320.jpg",
+        "bestTitle":  "Triple Cell 18650 LI-ION  Battery Holder (3 cell)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9079-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  65,
+        "name":  "18650 Battery Holder 2S",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/battery-holder-2s-320x320.jpg",
+        "bestTitle":  "Triple Cell 18650 LI-ION  Battery Holder (3 cell)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9079-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  66,
+        "name":  "18650 Battery Holder 3S",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/battery-holder-3s-320x320.jpg",
+        "bestTitle":  "Triple Cell 18650 LI-ION  Battery Holder (3 cell)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9079-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  67,
+        "name":  "5V Relay Module 2 Channel",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/relay-module-2ch-320x320.jpg",
+        "bestTitle":  "TXS0108E 8 Channel 3.3V 5V Level Converter Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/04/1000738175-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  68,
+        "name":  "12V Relay Module 4 Channel",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/relay-module-4ch-320x320.jpg",
+        "bestTitle":  "4 Channel Relay Module with Optocoupler",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/04/HTB11AJad3oQMeJjy0Fpq6ATxpXar__71848-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  69,
+        "name":  "Breadboard 830 Points",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/breadboard-830-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  70,
+        "name":  "Jumper Wire Set (120pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/jumper-set-120pcs-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  71,
+        "name":  "Mini Water Pump 3-6V",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/water-pump-320x320.jpg",
+        "bestTitle":  "Mini submersible water pump 3/5V",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/01/1001295977-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  72,
+        "name":  "Solenoid Valve 12V",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/solenoid-valve-320x320.jpg",
+        "bestTitle":  "Automated 12v solenoid lock",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/11/img_4790-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  73,
+        "name":  "Robot Chassis Kit 2WD",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/robot-chassis-2wd-320x320.jpg",
+        "bestTitle":  "2WD Smart Robot Car Chassis Kit",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/2wd-two-wheel-drive-diy-kit-a-smart-robot-car-with-chassis-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  74,
+        "name":  "Robot Chassis Kit 4WD",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/robot-chassis-4wd-320x320.jpg",
+        "bestTitle":  "4WD ROBOT CHASSIS",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/img_7046-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  75,
+        "name":  "Resistor Kit 1/4W (560pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/resistor-kit-560pcs-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  76,
+        "name":  "Capacitor Kit Assorted (100pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/capacitor-kit-100pcs-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  77,
+        "name":  "Diode Assortment Kit (200pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/diode-kit-200pcs-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  78,
+        "name":  "XOR Gate IC (7486)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/xor-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  79,
+        "name":  "NAND Gate IC (7400)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/nand-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  80,
+        "name":  "NOR Gate IC (7402)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/nor-gate-ic-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  81,
+        "name":  "Ceramic Resonator 8MHz",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ceramic-resonator-8mhz-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  82,
+        "name":  "Crystal Oscillator 16MHz",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/crystal-16mhz-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  83,
+        "name":  "Inductor Kit 10 Values",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/inductor-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  84,
+        "name":  "LM358 Op-Amp IC",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lm358-opamp-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  85,
+        "name":  "LM741 Op-Amp IC",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lm741-opamp-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  86,
+        "name":  "NE555 Precision Timer",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ne555-timer-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  87,
+        "name":  "LM317 Voltage Regulator",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lm317-regulator-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  88,
+        "name":  "ULN2003 Darlington Array",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/uln2003-darlington-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  89,
+        "name":  "IRF540N N-Channel MOSFET",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/irf540n-mosfet-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  90,
+        "name":  "IRF9540 P-Channel MOSFET",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/irf9540-mosfet-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  91,
+        "name":  "2N7000 N-Channel MOSFET",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/2n7000-mosfet-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  92,
+        "name":  "BS170 N-Channel MOSFET",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/bs170-mosfet-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  93,
+        "name":  "USB to TTL Converter Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/usb-ttl-converter-320x320.jpg",
+        "bestTitle":  "USB 2.0 to TTL RS485 Serial Converter Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/09/USB-2-0-to-TTL-RS485-Serial__27304-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  94,
+        "name":  "I2C LCD Module 20x4",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/i2c-lcd-20x4-320x320.jpg",
+        "bestTitle":  "16*2 LCD with I2C",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/04/1000738046-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  95,
+        "name":  "PIR Motion Sensor Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/pir-sensor-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  96,
+        "name":  "Ultrasonic Sensor HC-SR04",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ultrasonic-sensor-320x320.jpg",
+        "bestTitle":  "HC-SR05  Ultrasonic Sensor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/07/img_1266-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  97,
+        "name":  "DHT11 Temperature \u0026 Humidity Sensor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dht11-sensor-320x320.jpg",
+        "bestTitle":  "This is image of the DHT11 temperature \u0026amp; humidity sensor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/07/humidity-sensor-320x320.png",
+        "score":  1
+    },
+    {
+        "id":  98,
+        "name":  "DHT22 Temperature \u0026 Humidity Sensor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dht22-sensor-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  99,
+        "name":  "GPS Module NEO-6M",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/gps-module-320x320.jpg",
+        "bestTitle":  "GY-NEO-6M GPS Active Ceramic Antenna Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/GY-NEO6MV2-GPS-Module-Super-Signal-with-Antenna-for-Arduino-Raspberry-Pi-320x320.avif",
+        "score":  1
+    },
+    {
+        "id":  100,
+        "name":  "WiFi Antenna 2.4GHz 5dBi",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/wifi-antenna-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  101,
+        "name":  "RS485 to TTL Converter",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rs485-converter-320x320.jpg",
+        "bestTitle":  "USB 2.0 to TTL RS485 Serial Converter Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/09/USB-2-0-to-TTL-RS485-Serial__27304-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  102,
+        "name":  "CAN Bus Module MCP2515",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/can-bus-module-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  103,
+        "name":  "ESC Brushless 30A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/esc-30a-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  104,
+        "name":  "Drone Propeller Set 10inch",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/propeller-set-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  105,
+        "name":  "Flight Controller Pixhawk",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/flight-controller-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  106,
+        "name":  "Breadboard Jumper Wires (140pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/breadboard-jumpers-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  107,
+        "name":  "Alligator Clip Test Leads (5pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/alligator-clips-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  108,
+        "name":  "Banana Plug to Test Lead Set",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/banana-plug-leads-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  109,
+        "name":  "M4 Stainless Steel Screws (20pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/m4-screws-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  110,
+        "name":  "M2 Stainless Steel Screws (50pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/m2-screws-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  111,
+        "name":  "Hex Standoff Spacer M3 (10pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/hex-standoff-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  112,
+        "name":  "Toggle Switch SPDT (5pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/toggle-switch-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  113,
+        "name":  "Slide Switch SPDT (10pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/slide-switch-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  114,
+        "name":  "Rotary Encoder Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rotary-encoder-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  115,
+        "name":  "PLA Filament 1.75mm (1kg)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/pla-filament-320x320.jpg",
+        "bestTitle":  "1.75mm 1Kg Black PLA+ Filament",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/img_1423-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  116,
+        "name":  "ABS Filament 1.75mm (1kg)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/abs-filament-320x320.jpg",
+        "bestTitle":  "1.75mm 1Kg Black PLA+ Filament",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/img_1423-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  117,
+        "name":  "3D Printer Nozzle 0.4mm Brass",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/printer-nozzle-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  118,
+        "name":  "Heated Bed 220x220mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/heated-bed-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  119,
+        "name":  "Arduino Starter Kit Premium",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-premium-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  120,
+        "name":  "Raspberry Pi Starter Kit",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rpi-starter-kit-320x320.jpg",
+        "bestTitle":  "Raspberry pi adapter kit (3 in 1)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/img_1453-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  121,
+        "name":  "IoT Learning Kit ESP32",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/iot-learning-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  122,
+        "name":  "ESP32-CAM Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/esp32-cam-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  123,
+        "name":  "STM32F103C8T6 Blue Pill",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/stm32-blue-pill-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  124,
+        "name":  "Arduino Mega 2560",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-mega-320x320.jpg",
+        "bestTitle":  "Arduino Mega 2560 MICROCONTROLLER",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/img_5358-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  125,
+        "name":  "MG996R High Torque Servo",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/mg996r-servo-320x320.jpg",
+        "bestTitle":  "MG996R(Metal gear) High Torque Servo  Motor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/SERVO-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  126,
+        "name":  "DS3218 20kg Digital Servo",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ds3218-servo-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  127,
+        "name":  "NEMA 23 Stepper Motor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/nema23-stepper-320x320.jpg",
+        "bestTitle":  "Nema 17 Stepper Motor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/06/img_1829-2-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  128,
+        "name":  "28BYJ-48 Stepper Motor with Driver",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/28byj48-stepper-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  129,
+        "name":  "DC-DC Boost Converter 5V to 12V",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/boost-converter-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  130,
+        "name":  "Solar Panel 6V 2W",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/solar-panel-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  131,
+        "name":  "TP4056 Li-ion Charger Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tp4056-charger-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  132,
+        "name":  "RGB LED Strip 5M 300 LEDs",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rgb-led-strip-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  133,
+        "name":  "LED Matrix 8x8 Red",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/led-matrix-8x8-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  134,
+        "name":  "WS2812B Addressable LEDs (50pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ws2812b-leds-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  135,
+        "name":  "Super Capacitor 5.5V 0.1F",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/super-capacitor-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  136,
+        "name":  "Electrolytic Capacitor Kit (100pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/electrolytic-cap-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  137,
+        "name":  "ATmega328P-PU Microcontroller",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/atmega328p-320x320.jpg",
+        "bestTitle":  "Arduino Nano ATmega328P 5V Microcontroller",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/img_6154-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  138,
+        "name":  "DS3231 Real Time Clock Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ds3231-rtc-320x320.jpg",
+        "bestTitle":  "DS3231 AT24C32 IIC Module Precision Clock Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/09/ds3231-at24c32-iic-precision-rtc-real-time-clock-memory-module-arduino-rpi-mcu-32482967978220_800x-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  139,
+        "name":  "SD Card Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/sd-card-module-320x320.jpg",
+        "bestTitle":  "SPI Interface SD Card Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/08/1001133205-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  140,
+        "name":  "Robot Arm Kit 4DOF with Gripper",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/robot-arm-4dof-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  141,
+        "name":  "Line Following Sensor Array",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/line-sensor-array-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  142,
+        "name":  "Obstacle Avoidance Sensor Kit",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/obstacle-sensor-kit-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  143,
+        "name":  "RGB LED 5MM 4 Pin",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rgb-led-5mm-320x320.jpg",
+        "bestTitle":  "RGB  LED 5MM 4 Pin",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/04/bmt-rgb-led-4p-5mm-ccath-10pk-102514-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  144,
+        "name":  "NE555P High Precision Timer",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ne555p-timer-320x320.jpg",
+        "bestTitle":  "NE555P High Precision Timer",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/61DzHtqXW-L-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  145,
+        "name":  "PNP L7805C Voltage Regulator",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/l7805c-320x320.jpg",
+        "bestTitle":  "PNP L7805C",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/09/img_4543-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  146,
+        "name":  "PNP BC327 Transistor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/bc327-transistor-320x320.jpg",
+        "bestTitle":  "transistors PNP BC327",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/pnp-transistor-500x500-1-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  147,
+        "name":  "L7812CV Voltage Regulator",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/l7812cv-320x320.jpg",
+        "bestTitle":  "L7812CV",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/l7812cv-st-integrated-circuit-voltage-regulator-1-1-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  148,
+        "name":  "NPN IRF540 Transistor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/irf540-transistor-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  149,
+        "name":  "IRFZ44N MOSFET",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/irfz44n-320x320.jpg",
+        "bestTitle":  "IRFZ44N",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_0044-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  150,
+        "name":  "NPN 2N7000 Transistor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/2n7000-transistor-320x320.jpg",
+        "bestTitle":  "transistors NPN 2N7000",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/2n7000-n-channel-mosfet-500x500-1-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  151,
+        "name":  "NPN MPSA06 Transistor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/mpsa06-transistor-320x320.jpg",
+        "bestTitle":  "transistors NPN MPSA06",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/4133UTdOZML-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  152,
+        "name":  "NPN TIP31 Transistor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tip31-transistor-320x320.jpg",
+        "bestTitle":  "transistors NPN TIP31",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/TIP31-NPN-Power-Transistor_bcd71556-a6ac-48f7-96ab-ef287f5d03bd_grande-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  153,
+        "name":  "50V 1UF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/1uf-50v-capacitor-320x320.jpg",
+        "bestTitle":  "50V 1UF Capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/41mdvfGyDGL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  154,
+        "name":  "10V 470uF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/470uf-10v-capacitor-320x320.jpg",
+        "bestTitle":  "25V 470uF capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/51oeXL7UYL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  155,
+        "name":  "50V 0.1uF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/0.1uf-50v-capacitor-320x320.jpg",
+        "bestTitle":  "50V 1UF Capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/41mdvfGyDGL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  156,
+        "name":  "50V 4.7 uF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/4.7uf-50v-capacitor-320x320.jpg",
+        "bestTitle":  "50V 1UF Capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/41mdvfGyDGL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  157,
+        "name":  "50V 0.47 uF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/0.47uf-50v-capacitor-320x320.jpg",
+        "bestTitle":  "50V 1UF Capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/41mdvfGyDGL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  158,
+        "name":  "16V 47uF Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/47uf-16v-capacitor-320x320.jpg",
+        "bestTitle":  "16V 220uF capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/07/electrolytic-cap-300.jpg",
+        "score":  1
+    },
+    {
+        "id":  159,
+        "name":  "2.2ÂµF 275VAC X2 Metallized Polypropylene Film Capacitor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/x2-capacitor-320x320.jpg",
+        "bestTitle":  "2.2µF 275VAC X2 Metallized Polypropylene Film Capacitor",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/04/CAPACITOR-2-2-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  160,
+        "name":  "Supercapacitor 2.7V 10F",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/supercapacitor-2.7v-10f-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  161,
+        "name":  "Arduino USB Cable",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-usb-cable-320x320.jpg",
+        "bestTitle":  "Arduino Nano cable",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/09/img_2221-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  162,
+        "name":  "Arduino Nano Cable",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-nano-cable-320x320.jpg",
+        "bestTitle":  "Arduino Nano cable",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/09/img_2221-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  163,
+        "name":  "Arduino UNO R3 V5.0 Expansion Board",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/uno-expansion-board-320x320.jpg",
+        "bestTitle":  "Arduino UNO R3 V5.0 Expansion Board",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8636-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  164,
+        "name":  "Arduino Pro Mini 5V/16MHz ATMEGA 328P",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-pro-mini-320x320.jpg",
+        "bestTitle":  "Arduino Pro Mini 5V/16MhZ ATMEGA 328P",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/04/img_0224-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  165,
+        "name":  "Arduino Nano ATmega328P 5V Microcontroller",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-nano-atmega328p-320x320.jpg",
+        "bestTitle":  "Arduino Nano ATmega328P 5V Microcontroller",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/img_6154-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  166,
+        "name":  "Arduino Uno",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/arduino-uno-320x320.jpg",
+        "bestTitle":  "Arduino UNO R3 V5.0 Expansion Board",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8636-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  167,
+        "name":  "Raspberry Pi Camera 5MP Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/rpi-camera-5mp-320x320.jpg",
+        "bestTitle":  "an image of raspberry pi camera 5MP",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/07/pi-camera-better-e1690279684477-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  168,
+        "name":  "Storage Box",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/storage-box-320x320.jpg",
+        "bestTitle":  "Storage box",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/03/storage.jpg",
+        "score":  1
+    },
+    {
+        "id":  169,
+        "name":  "Breadboard 400 Points",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/breadboard-400-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  170,
+        "name":  "Multimeter Digital",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/digital-multimeter-320x320.jpg",
+        "bestTitle":  "DIGITAL MULTIMETER DT9205A",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/10/img_3509-320x320.png",
+        "score":  1
+    },
+    {
+        "id":  171,
+        "name":  "Soldering Iron 25W",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/soldering-iron-25w-320x320.jpg",
+        "bestTitle":  "INGCO Soldering Iron",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/10/img_3642-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  172,
+        "name":  "Solder Wire 1mm 100g",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/solder-wire-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  173,
+        "name":  "PCB Board Prototype 5x7cm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/pcb-board-5x7cm-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  174,
+        "name":  "Heat Shrink Tube Assorted (100pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/heat-shrink-tube-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  175,
+        "name":  "Wire Stripper Tool",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/wire-stripper-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  176,
+        "name":  "Precision Screwdriver Set (30pcs)",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/screwdriver-set-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  177,
+        "name":  "Helping Hands Tool with Magnifier",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/helping-hands-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  178,
+        "name":  "Digital Caliper 150mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/digital-caliper-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  179,
+        "name":  "Photoresistor LDR 55mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/photoresistor-ldr-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  180,
+        "name":  "Thermistor NTC 10K",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/thermistor-ntc-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  181,
+        "name":  "Buzzer Active 12V",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/buzzer-12v-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  182,
+        "name":  "Piezo Buzzer 5V",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/piezo-buzzer-5v-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  183,
+        "name":  "Relay 5V 1 Channel",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/relay-5v-1ch-320x320.jpg",
+        "bestTitle":  "5V Relay 1 Channel",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/01/img_7854-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  184,
+        "name":  "Relay 12V 1 Channel",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/relay-12v-1ch-320x320.jpg",
+        "bestTitle":  "5V Relay 1 Channel",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/01/img_7854-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  185,
+        "name":  "Power Supply 12V 2A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/power-supply-12v-2a-320x320.jpg",
+        "bestTitle":  "12V 5A (60W) Switching Power Supply",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2026/01/12V-5A-Switching-Power-Supply-Transformer-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  186,
+        "name":  "Power Supply 5V 3A",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/power-supply-5v-3a-320x320.jpg",
+        "bestTitle":  "AMS1117 5V Power Supply Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/06/ams.jpeg",
+        "score":  1
+    },
+    {
+        "id":  187,
+        "name":  "DC Barrel Jack Adapter 2.1mm",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/barrel-jack-adapter-320x320.jpg",
+        "bestTitle":  "DC Power jack Adapter",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/10/51L-G4j24eL._AC_UF10001000_QL80_-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  188,
+        "name":  "7 Segment Display 4 Digit",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/7-segment-4digit-320x320.jpg",
+        "bestTitle":  "7 segment display",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/05/1000820358-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  189,
+        "name":  "LED Display 0.56 inch 4 Digit",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/led-display-0.56-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    },
+    {
+        "id":  190,
+        "name":  "TFT Touch Display 2.8 inch",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tft-touch-2.8-320x320.jpg",
+        "bestTitle":  "2.4 Inch SPI TFT Display Module(No Touch)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/12/img_8641-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  191,
+        "name":  "IR Infrared Obstacle Avoidance Sensor",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/ir-obstacle-sensor-320x320.jpg",
+        "bestTitle":  "IR sensor module (infrared)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/09/ir-e1695382498183-320x320.jpg",
+        "score":  1
+    },
+    {
+        "id":  192,
+        "name":  "Flame Sensor Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/flame-sensor-320x320.jpg",
+        "bestTitle":  "Sound Sensor Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/10/img_3606-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  193,
+        "name":  "Sound Sensor Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/sound-sensor-320x320.jpg",
+        "bestTitle":  "Sound Sensor Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/10/img_3606-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  194,
+        "name":  "Vibration Sensor Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/vibration-sensor-320x320.jpg",
+        "bestTitle":  "Sound Sensor Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/10/img_3606-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  195,
+        "name":  "HC-05 Bluetooth Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/hc-05-bluetooth-320x320.jpg",
+        "bestTitle":  "HC05 Bluetooth Module Original version",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2023/07/img_8981-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  196,
+        "name":  "LoRa SX1278 Module 433MHz",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/lora-sx1278-320x320.jpg",
+        "bestTitle":  "SX1278 Ra -01 LoRa module (spread sprectrum)",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2025/02/img_8746-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  197,
+        "name":  "SIM800L GSM Module",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/sim800l-gsm-320x320.jpg",
+        "bestTitle":  "SIM800L V1 GSM Module",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/01/img_8088-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  198,
+        "name":  "DC Gear Motor 12V 200RPM",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/dc-gear-motor-12v-320x320.jpg",
+        "bestTitle":  "DC Motor 12V 120 rpm",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/03/img_9101-1-320x320.jpeg",
+        "score":  1
+    },
+    {
+        "id":  199,
+        "name":  "Stepper Motor Driver TB6600",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/tb6600-driver-320x320.jpg",
+        "bestTitle":  "TB6600 4A 42V  Stepper Motor Driver",
+        "bestImage":  "https://bluepacknova.com/wp-content/uploads/2024/09/HTB1_Y8DQpXXXXbTXVXXq6xXFXXXU_a7f5720e-52d8-4bd7-896a-cbd64880e00c-320x320.webp",
+        "score":  1
+    },
+    {
+        "id":  200,
+        "name":  "Servo Tester",
+        "oldImage":  "https://bluepacknova.com/wp-content/uploads/2024/11/servo-tester-320x320.jpg",
+        "bestTitle":  "",
+        "bestImage":  "",
+        "score":  0
+    }
+]

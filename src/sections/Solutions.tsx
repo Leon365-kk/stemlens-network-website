@@ -1,7 +1,21 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import solutionImage from '../../assets/asset_2.jpg';
+import solutionImage from '../../assets/asset_1.jpg';
+import SafeImage from '../components/SafeImage';
+import AssetErrorBoundary from '../components/AssetErrorBoundary';
+import { 
+  ANIMATION_TIMING, 
+  ANIMATION_VALUES, 
+  EASING 
+} from '../constants/animations';
+import { 
+  VIEWPORT_HEIGHTS, 
+  VIEWPORT_WIDTHS, 
+  BORDER_RADIUS, 
+  SHADOWS 
+} from '../constants/layout';
+import { TYPOGRAPHY } from '../constants/ui';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -15,12 +29,17 @@ export default function Solutions() {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
+      if (!sectionRef.current || !cardARef.current || !cardBRef.current || 
+          !headlineRef.current || !bodyRef.current || !ctaRef.current) {
+        return;
+      }
+
       const scrollTl = gsap.timeline({
         scrollTrigger: {
           trigger: sectionRef.current,
-          start: 'top 80%',
-          end: '+=100%',
-          scrub: 0.6,
+          start: ANIMATION_TIMING.SCROLL_START,
+          end: ANIMATION_TIMING.SCROLL_END,
+          scrub: ANIMATION_TIMING.SCRUB_SPEED,
           pin: false,
         },
       });
@@ -28,39 +47,39 @@ export default function Solutions() {
       // Card A (image)
       scrollTl.fromTo(
         cardARef.current,
-        { x: '-50vw', opacity: 0 },
-        { x: 0, opacity: 1, ease: 'none' },
-        0
+        { x: ANIMATION_VALUES.X_NEGATIVE_LARGE, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { x: ANIMATION_VALUES.X_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, ease: EASING.NONE },
+        ANIMATION_TIMING.DELAY_IMMEDIATE
       );
 
       // Card B (text)
       scrollTl.fromTo(
         cardBRef.current,
-        { x: '50vw', opacity: 0 },
-        { x: 0, opacity: 1, ease: 'none' },
-        0
+        { x: ANIMATION_VALUES.X_POSITIVE_LARGE, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { x: ANIMATION_VALUES.X_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, ease: EASING.NONE },
+        ANIMATION_TIMING.DELAY_IMMEDIATE
       );
 
       // Headline
       scrollTl.fromTo(
         headlineRef.current,
-        { y: 20, opacity: 0 },
-        { y: 0, opacity: 1, ease: 'none' },
-        0.08
+        { y: ANIMATION_VALUES.Y_NEGATIVE_MEDIUM, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, ease: EASING.NONE },
+        ANIMATION_TIMING.DELAY_SHORT
       );
 
       // Body + CTA
       scrollTl.fromTo(
         bodyRef.current,
-        { y: 14, opacity: 0 },
-        { y: 0, opacity: 1, ease: 'none' },
-        0.15
+        { y: ANIMATION_VALUES.Y_NEGATIVE_TINY, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, ease: EASING.NONE },
+        ANIMATION_TIMING.DELAY_MEDIUM
       );
       scrollTl.fromTo(
         ctaRef.current,
-        { y: 14, opacity: 0 },
-        { y: 0, opacity: 1, ease: 'none' },
-        0.2
+        { y: ANIMATION_VALUES.Y_NEGATIVE_TINY, opacity: ANIMATION_VALUES.OPACITY_HIDDEN },
+        { y: ANIMATION_VALUES.Y_ZERO, opacity: ANIMATION_VALUES.OPACITY_VISIBLE, ease: EASING.NONE },
+        ANIMATION_TIMING.DELAY_LONG
       );
     }, sectionRef);
 
@@ -76,31 +95,36 @@ export default function Solutions() {
         {/* Card A - Image */}
         <div
           ref={cardARef}
-          className="relative w-full lg:w-[56vw] lg:absolute lg:left-[4vw] lg:top-[8vh] lg:h-[76vh] rounded-[18px] overflow-hidden shadow-[0_18px_45px_rgba(11,30,59,0.10)] order-2 lg:order-1"
+          className={`relative w-full lg:w-[${VIEWPORT_WIDTHS.EXTRA_LARGE}] lg:absolute lg:left-[${VIEWPORT_WIDTHS.SMALL}] lg:top-[${VIEWPORT_HEIGHTS.SMALL}] lg:h-[${VIEWPORT_HEIGHTS.EXTRA_LARGE}] rounded-[${BORDER_RADIUS.LARGE}px] overflow-hidden shadow-[${SHADOWS.CARD}] order-2 lg:order-1`}
         >
-          <div className="red-overlay w-full h-full">
-            <img
-              src={solutionImage}
-              alt="Students collaborating on robotics project"
-              className="w-full h-full object-cover min-h-[260px] lg:min-h-0"
-            />
-          </div>
+          <AssetErrorBoundary assetType="image">
+            <div className="red-overlay w-full h-full">
+              <SafeImage
+                src={solutionImage}
+                alt="STEM students working on innovative solutions and technology projects"
+                className="w-full h-full object-cover min-h-[260px] lg:min-h-0"
+                onError={(error) => {
+                  console.warn('Solutions image failed to load:', error);
+                }}
+              />
+            </div>
+          </AssetErrorBoundary>
         </div>
 
         {/* Card B - Text Content */}
         <div
           ref={cardBRef}
-          className="relative w-full lg:w-[34vw] lg:absolute lg:left-[62vw] lg:top-[8vh] lg:h-[76vh] bg-white rounded-[18px] shadow-[0_18px_45px_rgba(11,30,59,0.10)] border border-[rgba(11,30,59,0.10)] p-5 sm:p-6 lg:p-8 flex flex-col justify-center order-1 lg:order-2"
+          className={`relative w-full lg:w-[${VIEWPORT_WIDTHS.MEDIUM}] lg:absolute lg:left-[${VIEWPORT_WIDTHS.LARGE}] lg:top-[${VIEWPORT_HEIGHTS.SMALL}] lg:h-[${VIEWPORT_HEIGHTS.EXTRA_LARGE}] bg-white rounded-[${BORDER_RADIUS.LARGE}px] shadow-[${SHADOWS.CARD}] border border-[rgba(11,30,59,0.10)] p-5 sm:p-6 lg:p-8 flex flex-col justify-center order-1 lg:order-2`}
         >
           <h2
             ref={headlineRef}
-            className="text-xl sm:text-2xl lg:text-[clamp(22px,2.5vw,36px)] font-bold text-[#0B1E3B] leading-[1.15] tracking-[-0.02em] mb-3 lg:mb-4"
+            className={`text-xl sm:text-2xl lg:text-[clamp(${TYPOGRAPHY.XXL}px,2.5vw,${TYPOGRAPHY.COLOSSAL}px)] font-bold text-[#0B1E3B] leading-[${TYPOGRAPHY.NORMAL}] tracking-[${TYPOGRAPHY.TIGHT_TRACKING}em] mb-3 lg:mb-4`}
           >
             STEM to Real-World Solutions
           </h2>
           <p
             ref={bodyRef}
-            className="text-sm sm:text-base text-[#6B7A90] leading-relaxed mb-4 lg:mb-5"
+            className={`text-sm sm:text-base text-[#6B7A90] leading-[${TYPOGRAPHY.RELAXED}] mb-4 lg:mb-5`}
           >
             Turning ideas into impact in climate, food systems, and communities.
           </p>
