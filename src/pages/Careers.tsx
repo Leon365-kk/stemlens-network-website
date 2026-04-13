@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import {
   Briefcase,
-  Users,
   Rocket,
   GraduationCap,
   ShieldCheck,

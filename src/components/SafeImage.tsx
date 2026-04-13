@@ -119,12 +119,12 @@ export default function SafeImage({
     <div className={`relative ${className}`}>
       {renderLoadingIndicator()}
       <img
-        src={fallback && loadingState === 'error' ? fallback : src}
+        src={fallback && (loadingState as string) === 'error' ? fallback : src}
         alt={alt}
         className={`${className} transition-all duration-300 ${
           loadingState === 'loading' ? 'opacity-0 scale-95' : 
           loadingState === 'loaded' ? 'opacity-100 scale-100' : 
-          loadingState === 'error' ? 'opacity-0 scale-95' :
+          (loadingState as string) === 'error' ? 'opacity-0 scale-95' :
           'opacity-0 scale-95'
         }`}
         onLoadStart={handleLoadStart}

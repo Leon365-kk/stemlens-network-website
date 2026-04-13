@@ -9,12 +9,6 @@ import {
   ANIMATION_VALUES, 
   EASING 
 } from '../constants/animations';
-import { 
-  VIEWPORT_HEIGHTS, 
-  VIEWPORT_WIDTHS, 
-  BORDER_RADIUS, 
-  SHADOWS 
-} from '../constants/layout';
 
 gsap.registerPlugin(ScrollTrigger);
 

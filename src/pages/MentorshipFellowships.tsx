@@ -14,6 +14,11 @@ import {
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 import ApplicationForm from '../components/ApplicationForm';
 
+const topButtons = [
+  'Apply for Mentorship',
+  'Join Fellowship Program',
+  'Become a Mentor'
+];
 
 const whyMentorshipMatters = [
   'Gain clarity on academic, research, and career pathways',

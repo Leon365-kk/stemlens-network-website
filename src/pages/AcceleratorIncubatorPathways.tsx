@@ -1,8 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import SafeImage from '../components/SafeImage';
-import AssetErrorBoundary from '../components/AssetErrorBoundary';
 import { 
   ANIMATION_TIMING, 
   ANIMATION_VALUES, 

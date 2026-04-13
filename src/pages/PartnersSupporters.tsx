@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import {
   Handshake,
-  Users,
   Building2,
   Briefcase,
   FlaskConical,

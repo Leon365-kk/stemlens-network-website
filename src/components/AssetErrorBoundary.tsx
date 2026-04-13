@@ -21,7 +21,7 @@ export default class AssetErrorBoundary extends Component<Props, State> {
     return { hasError: true, error };
   }
 
-  componentDidCatch(error: Error, errorInfo: ErrorInfo) {
+  componentDidCatch(error: Error, _errorInfo: ErrorInfo) {
     // Log asset loading errors for debugging
     console.warn(`Asset loading error (${this.props.assetType || 'unknown'}):`, error);
     

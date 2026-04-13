@@ -12,6 +12,16 @@ import {
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 import ApplicationForm from '../components/ApplicationForm';
 
+const topButtons = [
+  'Apply for Scholarship',
+  'View Badge Requirements',
+  'Check Eligibility'
+];
+
+const sponsorButtons = [
+  'Sponsor a Scholarship',
+  'Partner with STEMlens'
+];
 
 const scholarshipSupport = [
   'STEMlens Clubs and Programs',

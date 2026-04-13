@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import VirtualList from './VirtualList';
-import { ChevronDown, Search } from 'lucide-react';
+import { Search } from 'lucide-react';
 
 interface DropdownItem {
   label: string;

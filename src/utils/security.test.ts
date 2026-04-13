@@ -3,7 +3,7 @@
  * These are examples of attacks that are now prevented
  */
 
-import { sanitizeHash, sanitizeAndValidateRoute } from './sanitization';
+import { sanitizeAndValidateRoute } from './sanitization';
 
 // Test cases demonstrating security improvements
 export const SECURITY_TEST_CASES = {

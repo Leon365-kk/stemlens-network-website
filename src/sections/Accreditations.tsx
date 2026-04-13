@@ -92,7 +92,7 @@ export default function Accreditations() {
 
         {/* Our Accreditations and Certifications */}
         <div
-          ref={(el) => (sectionRefs.current[0] = el)}
+          ref={(el) => { sectionRefs.current[0] = el; }}
           className="bg-white rounded-2xl shadow-xl border border-gray-100 p-8 lg:p-10 mb-8 lg:mb-10"
         >
           <div className="flex items-center mb-6">
@@ -126,7 +126,7 @@ export default function Accreditations() {
 
         {/* Recognition & Institutional Engagement */}
         <div
-          ref={(el) => (sectionRefs.current[1] = el)}
+          ref={(el) => { sectionRefs.current[1] = el; }}
           className="bg-white rounded-2xl shadow-xl border border-gray-100 p-8 lg:p-10 mb-8 lg:mb-10"
         >
           <div className="flex items-center mb-6">
@@ -184,7 +184,7 @@ export default function Accreditations() {
 
         {/* Affiliations & Standards Alignment */}
         <div
-          ref={(el) => (sectionRefs.current[2] = el)}
+          ref={(el) => { sectionRefs.current[2] = el; }}
           className="bg-white rounded-2xl shadow-xl border border-gray-100 p-8 lg:p-10 mb-8 lg:mb-10"
         >
           <div className="flex items-center mb-6">
@@ -249,7 +249,7 @@ export default function Accreditations() {
 
         {/* Learner Recognition and Credentials */}
         <div
-          ref={(el) => (sectionRefs.current[3] = el)}
+          ref={(el) => { sectionRefs.current[3] = el; }}
           className="bg-white rounded-2xl shadow-xl border border-gray-100 p-8 lg:p-10 mb-8 lg:mb-10"
         >
           <div className="flex items-center mb-6">
@@ -284,7 +284,7 @@ export default function Accreditations() {
 
         {/* Institutional Integrity and Continuous Development */}
         <div
-          ref={(el) => (sectionRefs.current[4] = el)}
+          ref={(el) => { sectionRefs.current[4] = el; }}
           className="bg-gradient-to-br from-[#0B1E3B] to-[#1a3a5c] rounded-2xl shadow-xl border border-blue-200/20 p-8 lg:p-10 text-white"
         >
           <div className="flex items-center mb-6">

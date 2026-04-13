@@ -20,8 +20,6 @@ import goal14 from '../sdgs/E-WEB-Goal-14.png';
 import goal15 from '../sdgs/E-WEB-Goal-15.png';
 import goal16 from '../sdgs/E-WEB-Goal-16.png';
 import goal17 from '../sdgs/E-WEB-Goal-17.png';
-import SafeImage from '../components/SafeImage';
-import AssetErrorBoundary from '../components/AssetErrorBoundary';
 
 gsap.registerPlugin(ScrollTrigger);
 
