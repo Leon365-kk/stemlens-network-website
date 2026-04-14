@@ -8,8 +8,8 @@ import {
   Target,
   ArrowRight,
 } from 'lucide-react';
-import printerImage from '../../assets/three-d-printer.svg?url';
-import designImage from '../../assets/three-d-design.svg?url';
+import printerImage from '../../assets/three-d-printer.svg';
+import designImage from '../../assets/three-d-design.svg';
 import labImage from '../../assets/asset_1.jpg';
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 
