@@ -8,8 +8,8 @@ import {
   Target,
   ArrowRight,
 } from 'lucide-react';
-import designImage from '../../assets/artscience-design.svg';
-import visualizationImage from '../../assets/artscience-visualization.svg';
+import designImage from '../../assets/artscience-design.svg?url';
+import visualizationImage from '../../assets/artscience-visualization.svg?url';
 import studioImage from '../../assets/asset_4.jpg';
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 
