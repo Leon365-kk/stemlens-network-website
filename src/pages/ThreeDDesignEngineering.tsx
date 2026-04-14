@@ -8,8 +8,6 @@ import {
   Target,
   ArrowRight,
 } from 'lucide-react';
-import printerImage from '../../assets/three-d-printer.svg';
-import designImage from '../../assets/three-d-design.svg';
 import labImage from '../../assets/asset_1.jpg';
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 
@@ -180,11 +178,15 @@ export default function ThreeDDesignEngineering() {
             viewport={viewportOnce}
           >
             <motion.figure variants={fadeUp} className="rounded-2xl overflow-hidden border border-[#0B1E3B]/20 bg-white shadow-md">
-              <img src={printerImage} alt="3D printer concept visual" className="w-full h-48 sm:h-56 object-cover" />
+              <div className="w-full h-48 sm:h-56 bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center">
+                <Box className="w-12 h-12 text-blue-600" />
+              </div>
               <figcaption className="px-4 py-3 text-sm text-[#2F2F35] font-medium">3D Printer Prototyping Concepts</figcaption>
             </motion.figure>
             <motion.figure variants={fadeUp} className="rounded-2xl overflow-hidden border border-[#64646A]/20 bg-white shadow-md">
-              <img src={designImage} alt="3D design and CAD concept visual" className="w-full h-48 sm:h-56 object-cover" />
+              <div className="w-full h-48 sm:h-56 bg-gradient-to-br from-purple-100 to-purple-200 flex items-center justify-center">
+                <Layers className="w-12 h-12 text-purple-600" />
+              </div>
               <figcaption className="px-4 py-3 text-sm text-[#2F2F35] font-medium">3D Design and CAD Engineering Concepts</figcaption>
             </motion.figure>
             <motion.figure variants={fadeUp} className="rounded-2xl overflow-hidden border border-gray-200 bg-white shadow-md sm:col-span-2 lg:col-span-1">

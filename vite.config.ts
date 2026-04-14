@@ -11,21 +11,4 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  assetsInclude: ['**/*.svg'],
-  optimizeDeps: {
-    include: ['**/*.svg'],
-  },
-  build: {
-    assetsInlineLimit: 0,
-    rollupOptions: {
-      output: {
-        assetFileNames: (assetInfo) => {
-          if (assetInfo.name && assetInfo.name.endsWith('.svg')) {
-            return 'assets/[name].[hash][extname]';
-          }
-          return 'assets/[name].[hash][extname]';
-        },
-      },
-    },
-  },
 });

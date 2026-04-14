@@ -8,8 +8,6 @@ import {
   Target,
   ArrowRight,
 } from 'lucide-react';
-import designImage from '../../assets/artscience-design.svg';
-import visualizationImage from '../../assets/artscience-visualization.svg';
 import studioImage from '../../assets/asset_4.jpg';
 import { fadeUp, staggerContainer, viewportOnce } from '../lib/motion';
 
@@ -174,10 +172,14 @@ export default function ArtScience() {
           viewport={viewportOnce}
         >
           <motion.figure variants={fadeUp} whileHover={{ y: -5 }} transition={{ duration: 0.2 }} className="rounded-2xl overflow-hidden border border-gray-200 bg-white shadow-md">
-            <img src={designImage} alt="ArtScience design studio visual" className="w-full h-64 sm:h-72 object-cover" />
+            <div className="w-full h-64 sm:h-72 bg-gradient-to-br from-pink-100 to-purple-200 flex items-center justify-center">
+              <Palette className="w-16 h-16 text-purple-600" />
+            </div>
           </motion.figure>
           <motion.figure variants={fadeUp} whileHover={{ y: -5 }} transition={{ duration: 0.2 }} className="rounded-2xl overflow-hidden border border-gray-200 bg-white shadow-md">
-            <img src={visualizationImage} alt="Data visualization and creative communication visual" className="w-full h-64 sm:h-72 object-cover" />
+            <div className="w-full h-64 sm:h-72 bg-gradient-to-br from-blue-100 to-cyan-200 flex items-center justify-center">
+              <Lightbulb className="w-16 h-16 text-blue-600" />
+            </div>
           </motion.figure>
           <motion.figure variants={fadeUp} whileHover={{ y: -5 }} transition={{ duration: 0.2 }} className="rounded-2xl overflow-hidden border border-gray-200 bg-white shadow-md">
             <img src={studioImage} alt="Learners collaborating in a creative innovation workshop" className="w-full h-64 sm:h-72 object-cover" />
